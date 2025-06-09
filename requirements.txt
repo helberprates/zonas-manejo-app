@@ -1,0 +1,9 @@
+streamlit
+geopandas
+scikit-learn
+rasterio
+folium
+streamlit-folium
+earthengine-api
+fpdf
+geemap
